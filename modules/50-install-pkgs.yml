@@ -1,0 +1,6 @@
+name: install-pkgs
+type: shell
+commands:
+  . bash /pkgs/download.sh
+  - bash /pkgs/install.sh
+  - rm -rf /pkgs
