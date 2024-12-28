@@ -7,3 +7,6 @@ apt-get install -y libfuse2t64
 
 # Gnome Tweaks
 apt-get install -y gnome-tweaks
+
+# DisplayLink Support
+apt-get install -y /pkgs/synaptics-repository-keyring.deb
