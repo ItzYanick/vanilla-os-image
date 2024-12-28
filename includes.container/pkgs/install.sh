@@ -10,3 +10,4 @@ apt-get install -y gnome-tweaks
 
 # DisplayLink Support
 apt-get install -y /pkgs/synaptics-repository-keyring.deb
+apt-get update
