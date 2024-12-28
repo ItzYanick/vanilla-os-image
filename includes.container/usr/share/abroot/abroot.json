@@ -12,7 +12,7 @@
     "iPkgMngPost": "lpkg --lock",
     "iPkgMngAdd": "apt-get install -y",
     "iPkgMngRm": "apt-get remove -y --autoremove",
-    "iPkgMngApi": "https://packages.vanillaos.org/api/pkg/{packageName}",
+    "iPkgMngApi": "https://vanilla-os-repo-proxy.yanick.gay/api/pkg/{packageName}",
     "iPkgMngStatus": 2,
 
     "differURL": "https://differ.vanillaos.org",
